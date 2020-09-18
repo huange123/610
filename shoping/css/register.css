@@ -1,0 +1,19 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+header  {
+    height: 48px;
+    border-bottom: 2px solid #c81523;
+}
+.logo {
+    padding-top: 18px;
+}
+.registerarea {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.registerarea  h3 {
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+}
